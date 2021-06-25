@@ -560,7 +560,7 @@ button[class*="button-"][class*="color"],
 }
 
 .bd-button {
-	--bd-blue: rgba(var(--accent-alt), 1);
+	--bd-red: rgba(var(--accent-alt), 1);
 }
 
 
